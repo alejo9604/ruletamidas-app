@@ -401,7 +401,7 @@ MonoBehaviour:
     m_Start: 1
     m_ClipIn: 0
     m_Asset: {fileID: 8495374625444676146}
-    m_Duration: 4.999999999999998
+    m_Duration: 10
     m_TimeScale: 1
     m_ParentTrack: {fileID: -1843983455430394899}
     m_EaseInDuration: 0
@@ -431,7 +431,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LinearRotation
   - m_Version: 1
-    m_Start: 5.999999999999998
+    m_Start: 11
     m_ClipIn: 0
     m_Asset: {fileID: 165538438866063602}
     m_Duration: 2.1500000000000004
@@ -764,7 +764,7 @@ MonoBehaviour:
   m_Version: 3
   m_AnimClip: {fileID: 0}
   m_Locked: 0
-  m_Muted: 0
+  m_Muted: 1
   m_CustomPlayableFullTypename: 
   m_Curves: {fileID: 0}
   m_Parent: {fileID: 11400000}
@@ -1167,6 +1167,6 @@ MonoBehaviour:
   m_MatchTargetFields: 63
   m_RemoveStartOffset: 0
   m_ApplyFootIK: 1
-  m_Loop: 0
+  m_Loop: 1
   m_Version: 1
   m_Rotation: {x: 0, y: 0, z: 0, w: 1}
